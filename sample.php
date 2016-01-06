@@ -1,4 +1,6 @@
 <?php
+#Apache lisence
+#Version 2.0
 
 @include_once('Importer.php');
 
