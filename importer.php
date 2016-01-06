@@ -1,4 +1,7 @@
 <?php
+#Apache lisence
+#Version 2.0
+
 class Importer {
 
 	var $database = null;
